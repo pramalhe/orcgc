@@ -9,7 +9,6 @@ BINARIES = \
 	bin/set-ll-1k \
 	bin/set-skiplist-1m \
 	bin/set-tree-1m \
-	bin/stack-ll \
 
 CSRCS = \
 	../common/ThreadRegistry.cpp \
