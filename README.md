@@ -1,2 +1,2 @@
-ORC GC: Automatic wait-free memory reclamation with Hazard Eras and Object Reference Counters
-This is the folder for wait-free memory reclamation techniques
+ORC GC: Automatic lock-free memory reclamation with Pass-The-Pointer and Object Reference Counters
+This is the folder for lock-free memory reclamation techniques
